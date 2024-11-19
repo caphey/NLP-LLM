@@ -4,6 +4,8 @@ Ce projet vise à analyser des sites web en utilisant des techniques de traiteme
 
 https://github.com/user-attachments/assets/10ffb614-4b15-4cee-ad1d-7d4fab3d9260
 
+https://github.com/user-attachments/assets/6ba065c9-9c3a-432f-876b-ef8ddba1054e
+
 ## 📋 Table des matières
 
 - [🎯 Objectifs du projet](#🎯-objectifs-du-projet)
