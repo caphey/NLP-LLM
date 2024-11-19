@@ -35,7 +35,7 @@ Ce projet vise à analyser des sites web en utilisant des techniques de traiteme
 
 - **Stack technologique** : Python, Flask, React, BeautifulSoup4, Ollama
 
-- **Composants principaux** :
+### Composants principaux
 - Interface utilisateur (React)
 - API backend (Flask)
 - Scraper web (BeautifulSoup4)
