@@ -2,7 +2,7 @@
 
 Ce projet vise à analyser des sites web en utilisant des techniques de traitement du langage naturel (NLP) et des modèles de langage de grande taille (LLM). Il fournit des analyses détaillées sur les performances, le SEO, le contenu et l'expérience utilisateur.
 
-<video width="1920" height="auto" controls>
+<video width="auto" height="240" controls>
   <source src="website-analyzer/public/record_home.mp4">
   Your browser does not support the video tag.
 </video>
@@ -33,16 +33,8 @@ Ce projet vise à analyser des sites web en utilisant des techniques de traiteme
 
 ## 🏗 Architecture technique
 
-- **Stack technologique** : Python, Flask, React, BeautifulSoup4, Ollama, LLaVA
-- **Diagramme de flux** :
-  ```mermaid
-  graph TD;
-      A[Utilisateur] --> B[Interface React];
-      B --> C[API Flask];
-      C --> D[WebScraper (BeautifulSoup4)];
-      D --> E[Analyzer (Ollama, Llama, Moondream)];
-      E --> F[Rapport d'analyse];
-  ```
+- **Stack technologique** : Python, Flask, React, BeautifulSoup4, Ollama
+
 - **Composants principaux** :
 - Interface utilisateur (React)
 - API backend (Flask)
