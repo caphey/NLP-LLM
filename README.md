@@ -33,16 +33,6 @@ Ce projet vise à analyser des sites web en utilisant des techniques de traiteme
 
 ## 🏗 Architecture technique
 
-- **Stack technologique** : Python, Flask, React, BeautifulSoup4, Ollama, LLaVA
-- **Diagramme de flux** :
-  ```mermaid
-  graph TD;
-      A[Utilisateur] --> B[Interface React];
-      B --> C[API Flask];
-      C --> D[WebScraper (BeautifulSoup4)];
-      D --> E[Analyzer (Ollama, Llama, Moondream)];
-      E --> F[Rapport d'analyse];
-  ```
 - **Composants principaux** :
 - Interface utilisateur (React)
 - API backend (Flask)
