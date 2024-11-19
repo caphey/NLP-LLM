@@ -2,7 +2,7 @@
 
 Ce projet vise à analyser des sites web en utilisant des techniques de traitement du langage naturel (NLP) et des modèles de langage de grande taille (LLM). Il fournit des analyses détaillées sur les performances, le SEO, le contenu et l'expérience utilisateur.
 
-<video width="1920" height="auto" controls>
+<video width="auto" height="240" controls>
   <source src="website-analyzer/public/record_home.mp4">
   Your browser does not support the video tag.
 </video>
